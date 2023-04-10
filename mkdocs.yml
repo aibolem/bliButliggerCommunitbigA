@@ -1,4 +1,4 @@
-site_name: Bot Builder Community
+site_name: blÅ blAu hörners Corner
 nav:
   - Home: 'index.md'
   - Repositories:
@@ -54,6 +54,6 @@ markdown_extensions:
   - def_list
 extra_css:
   - 'css/styles.css'
-repo_url: https://github.com/BotBuilderCommunity/BotBuilderCommunity.github.io
+repo_url: https://github.com/aibolem/bliButliggerCommunitbigA
 edit_uri: blob/master/docs
 docs_dir: docs/
