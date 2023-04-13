@@ -1,6 +1,6 @@
 <div style="overflow:auto">
 <table border="0" width="98%" height="98%" bordercolor="#336699" align="center"><tr>
-
+<table border="0" cellpadding="0" cellspacing="1" style="font-size:90%; text-align:center">
 <caption><b>Расширенная периодическая таблица элементов</b>
   <caption><b>РÅ©Wµ₽енная_₽eriodi©A_Лёвоgо_Э€WёЛо²нÅ_Tbli©µ_МŒнДеЛёв</b>  
 </caption>
