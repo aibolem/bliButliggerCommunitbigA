@@ -3109,7 +3109,7 @@ Mjau
   
 </div>
     <div class="paginate-container d-none d-md-flex flex-md-justify-center" data-pjax>
-      <div role="navigation" aria-label="Pagination" class="pagination"><span class="previous_page disabled">Previous</span> <em class="current" data-total-pages="8">1</em> <a rel="next" aria-label="Page 2" href="/orgs/dotnet/repositories?page=2&amp;type=all">2</a> <a aria-label="Page 3" href="/orgs/dotnet/repositories?page=3&amp;type=all">3</a> <a aria-label="Page 4" href="/orgs/dotnet/repositories?page=4&amp;type=all">4</a> <a aria-label="Page 5" href="/orgs/dotnet/repositories?page=5&amp;type=all">5</a> <a aria-label="Page 6" href="/orgs/dotnet/repositories?page=6&amp;type=all">6</a> <a aria-label="Page 7" href="/orgs/dotnet/repositories?page=7&amp;type=all">7</a> <a aria-label="Page 8" href="/orgs/dotnet/repositories?page=8&amp;type=all">8</a> <a class="next_page" rel="next" href="/orgs/dotnet/repositories?page=2&amp;type=all">Next</a></div>
+      
     </div>
 
     <div class="paginate-container d-md-none mb-5" data-pjax>
