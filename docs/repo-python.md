@@ -10,6 +10,14 @@
 	
 	
 
+  <div class="topic p-responsive container-lg">
+    <div class="d-md-flex gutter-md">
+      <div class="col-md-8 col-lg-9" data-hpc>
+          <div class="border rounded color-shadow-small color-bg-default p-4 mb-5">
+    <div class="float-sm-right ml-sm-4 mb-4 text-center">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="100" height="100" alt="python logo">
+    </div>
+
   <div class="markdown-body f5 mb-2">
     <p>Python is a dynamically-typed garbage-collected programming language developed by Guido van Rossum in the late 80s to replace ABC. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research.</p>
   </div>
@@ -18,7 +26,7 @@
           
   <h2 class="h3 color-fg-muted">
     Here are
-    360,291 public repositories
+    360,336 public repositories
     matching this topic...
   </h2>
   
